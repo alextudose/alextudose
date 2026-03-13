@@ -1,6 +1,6 @@
 # Hi, I'm Alex Tudose 👋
 
-Senior Frontend Engineer at 8x8 | Cluj-Napoca, Romania
+Senior Software Engineer at 8x8 | Cluj-Napoca, Romania
 
 # 💫 About Me:
 🔭 A curios young a man with great interests in tech, self development and finance.<br>👯 Eager to always improve<br>🤝 Interested in new technologies and techniques.<br>💬 Focused on communication and helps everyone as much as possible.<br>🌱 Extensive knowledge on JS and React. <br>💰 Active investor on local and international financial stock markets.<br>⚡ Fluent English speaker and native Romanian<br>😊 Nice to meet you.
